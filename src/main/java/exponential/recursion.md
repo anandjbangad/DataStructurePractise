@@ -30,7 +30,7 @@ With this two I create the recursive calls without thinking of the stack and stu
     }
   ```  
   
-  #####Binary Search Using Recursion
+  ####Binary Search Using Recursion
   How to start , firstly you want to find the middle element every time. You compare with middle element and according change 
   the start and end values of the array. If middle equal to num then rruen inde other wise change legth and keep calling 
   BinarySearch Function.
